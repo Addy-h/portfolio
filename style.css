@@ -59,26 +59,17 @@ nav ul li a{
 .text{
     font-family: calibri;
     font-weight: bold;
-    color: #6d6d6d;
-    font-size: 22px;
-
-}
-
-.text p:nth-child(2){
-    font-family: calibri;
-    font-weight: bold;
-    letter-spacing: 1px;
-    color: #1a1a1a;
-    font-size: 40px;
-}
-
-.text p:nth-child(3){
-    font-family: fantasy;
-    color: #403e3e;
+    color: black; 
     font-size: 20px;
+    margin: 45px 0px 25px ;
+    line-height: 0px;
+    position: absolute;
+    left: 28%;
+    top: 50%;
+    transform: translate(-13%, -42%);
+
 }
 
-span{
-    font-family: cursive;
-    color: rgb(210, 184, 231);
-}
+
+
+
