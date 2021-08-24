@@ -100,19 +100,3 @@ nav ul li a{
       transform: translateX(-70%);
 
   }
-
-
-
-
-  @media(min-width: 700px) {
-    #landing{
-        display: flex;
-        height: 100%;
-    }
-   
-       
-
-
-
-
-
