@@ -134,6 +134,11 @@ span{
     color:#eece1a;
 }
 
+.work-text{
+    margin-left:auto;
+    padding: 80px;
+}
+
 
 @media screen and (max-width: 480px) {
 
