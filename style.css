@@ -28,11 +28,11 @@ img.model{
     margin: auto;
     width: 200px;
     border-radius: 80%;
-    border: #ee1aae 3px solid;
+    border: #eece1a 3px solid;
 }
 .navbar h2{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: #ee1aae;
+    color: #eece1a;
     
 }
 
@@ -132,7 +132,7 @@ nav ul li a {
 
 }
 span{
-    color:#ee1aae;
+    color:#eece1a;
 }
 
 
