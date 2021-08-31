@@ -140,7 +140,16 @@ span{
     margin-left:auto;
     padding: 80px;
 }
-
+ .boxes{
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: space-evenly;
+     align-items: center;
+     margin-top: 1rem;
+ }
+*{
+    box-sizing: border-box;
+}
 footer{
     padding: 10px;
     margin-top: 20px;
@@ -148,6 +157,7 @@ footer{
     background-color: rgb(221, 215, 215);
     text-align: center;
     } 
+
 
 @media screen and (max-width: 480px) {
 
