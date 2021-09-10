@@ -175,6 +175,7 @@ footer {
 .contact{
     font-size:3rem;
     margin-bottom: 0;
+    text-align: center;
 }
 
 @media screen and (max-width: 480px) {
