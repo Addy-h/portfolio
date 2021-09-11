@@ -1,9 +1,9 @@
 @charset "utf-8";
 body {
-    background-color: rgb(240, 239, 239);
+    background-color: rgb(97, 96, 96);
     margin: 0px;
     padding: 0px;
-    color: rgb(77, 70, 70);
+    color: rgb(245, 244, 244);
 }
 
 ul {
@@ -67,13 +67,13 @@ nav ul li a {
 
 .current {
     font-weight: bold;
-    color: #2d2a2a;
+    color: #fff;
 }
 
 .text {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-weight: bold;
-    color: rgb(128, 119, 119);
+    color: #fff;
     font-size: 20px;
     margin: 45px 0px 25px;
     position: absolute;
@@ -98,14 +98,6 @@ nav ul li a {
     outline: none;
     margin: 0px 10px;
 }
-.hire-btn{
-  border:2px slid #373636;
-  color: #373636;
-}
-  .download-cv{
-      background-color:#0b0b0b;
-      color: white;
-  }
 .navbar a {
     float: left;
     display: block;
@@ -125,9 +117,9 @@ nav ul li a {
     position: relative;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-weight: bold;
-    line-height: 3rem;
+    line-height: 2rem;
     font-size: 20px;
-    color: rgb(128, 119, 119);
+    color: white;
 }
 
 span {
@@ -152,6 +144,10 @@ span {
     width: 20rem;
     height: 20rem;
     margin: 15px;
+}
+.imge a{
+    color:none;
+    text-decoration: none;
 }
 
 img{
