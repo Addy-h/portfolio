@@ -16,8 +16,6 @@ a {
 
 section {
     width: 100%;
-    height: 95vh;
-    /*background-image: url('./img/25.jpg');*/
     background-repeat: no-repeat;
     background-position: cover;
     position: relative;
@@ -26,7 +24,7 @@ section {
 img.model {
     grid-area: bioimage;
     margin: 100px;
-    width: 200px;
+    width: 260px;
     border-radius: 80%;
     border: #eece1a 3px solid;
 }
@@ -87,9 +85,8 @@ nav ul li a {
     float: left;
 }
 
-
-.text button{
-    width:130px;
+.text button {
+    width: 130px;
     height: 42px;
     border-radius: 10px;
     font-family: fantasy;
@@ -98,6 +95,7 @@ nav ul li a {
     outline: none;
     margin: 0px 10px;
 }
+
 .navbar a {
     float: left;
     display: block;
@@ -139,37 +137,47 @@ span {
     margin-top: 1rem;
 }
 
-
- .imge{
-    width: 20rem;
-    height: 20rem;
-    margin: 15px;
+.imge {
+    display: flex;
 }
-.imge a{
-    color:none;
+
+div.imge1, div.imge2 {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+}
+
+.imge1 img, .imge2 img {
+    margin: 25px 50px;
+    height: 500px;
+    border: 1px solid rgb(117, 109, 109);
+    border-radius: 10px;
+    box-sizing:unset;
+}
+
+.imge a {
+    padding: 15px 50px;
+    color: none;
     text-decoration: none;
+    color: #ffffff;
+    font-size: 1.2rem;
+    font-weight: bold;
 }
 
-img{
-    width: 60%;
-    height: 40%;
-    border: 2px #fff solid;
-    
-} 
- *{
+* {
     box-sizing: border-box;
 }
 
 footer {
     padding: 10px;
-    margin-top: 20px;
+    margin-top: 50px;
     color: black;
     background-color: rgb(221, 215, 215);
     text-align: center;
 }
 
-.contact{
-    font-size:3rem;
+.contact {
+    font-size: 3rem;
     margin-bottom: 0;
     text-align: center;
 }
