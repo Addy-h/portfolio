@@ -20,10 +20,7 @@ section {
     background-position: cover;
     position: relative;
 }
-.text p {
-  flex: 1;
-  min-width: 250px;
-}
+
 
 img.model {
     grid-area: bioimage;
@@ -91,6 +88,7 @@ nav ul li a {
     bottom: 0px;
     transform: translateX(-70%);
     float: left;
+    text: center;
 }
 
 .text button {
