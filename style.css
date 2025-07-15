@@ -86,7 +86,7 @@ nav ul li a {
     height: 560px;
     position: absolute;
     bottom: 0px;
-    /* transform: translateX(-70%); */
+    transform: translateX(-70%); 
     float: left;
     
 }
