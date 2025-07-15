@@ -82,11 +82,11 @@ nav ul li a {
     position: absolute;
     left: 50%;
     top: 20%;
-    /* transform: translate(-35%, -65%); */
+    transform: translate(-35%, -65%); 
     height: 560px;
     position: absolute;
     bottom: 0px;
-    transform: translateX(-70%);
+    /* transform: translateX(-70%); */
     float: left;
     
 }
