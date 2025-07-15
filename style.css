@@ -20,6 +20,10 @@ section {
     background-position: cover;
     position: relative;
 }
+.text p {
+  flex: 1;
+  min-width: 250px;
+}
 
 img.model {
     grid-area: bioimage;
