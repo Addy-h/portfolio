@@ -1,4 +1,4 @@
-@charset "utf-8";
+-@charset "utf-8";
 body {
     background-color: rgb(97, 96, 96);
     margin: 0px;
@@ -87,7 +87,7 @@ nav ul li a {
     position: absolute;
     bottom: 0px;
     transform: translateX(-70%);
-    float: right;
+    float: right-center;
     
 }
 
