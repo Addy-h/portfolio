@@ -84,14 +84,14 @@ nav ul li a {
     top: 20%;
     transform: translate(-35%, -65%); 
     height: 560px;
-   /* position: absolute; */
+    position: absolute; 
     bottom: 0px;
     transform: translateX(-70%); 
     float: left;
     
 }
 
-.text button {
+/*.text button {
     width: 130px;
     height: 42px;
     border-radius: 10px;
@@ -100,7 +100,7 @@ nav ul li a {
     font-size: 20px;
     outline: none;
     margin: 0px 10px;
-}
+} */
 
 .navbar a {
     float: left;
