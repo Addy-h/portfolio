@@ -15,7 +15,7 @@ a {
 }
 
 section {
-    width: 100%;
+    width: 50%;
     background-repeat: no-repeat;
     background-position: cover;
     position: relative;
@@ -24,7 +24,7 @@ section {
 
 img.model {
     grid-area: bioimage;
-    margin: 100px;
+    margin: 50px;
     width: 260px;
     border-radius: 80%;
     border: #eece1a 3px solid;
