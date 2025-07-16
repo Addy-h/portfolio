@@ -173,7 +173,7 @@ div.imge1, div.imge2 {
     height: 500px;
     border: 1px solid rgb(117, 109, 109);
     border-radius: 10px;
-    box-sizing:unset;
+    box-sizing: unset;
 }
 
 .imge a {
