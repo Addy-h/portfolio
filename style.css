@@ -24,7 +24,7 @@ section {
 
 img.model {
     grid-area: bioimage;
-    margin: 50px;
+    margin: 100px;
     width: 260px;
     border-radius: 80%;
     border: #eece1a 3px solid;
