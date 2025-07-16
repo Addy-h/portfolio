@@ -178,7 +178,7 @@ div.imge1, div.imge2 {
 
 .imge a {
     padding: 15px 50px;
-    color: none;
+    /*color: none;*/
     text-decoration: none;
     color: #ffffff;
     font-size: 1.2rem;
